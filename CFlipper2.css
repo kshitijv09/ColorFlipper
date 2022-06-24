@@ -1,0 +1,33 @@
+.flex{
+  display: flex;
+  flex-direction: row;
+  color:  limegreen;
+  font-size: 40px;
+  justify-content: space-around;
+  height:  300px;
+  
+}
+#button{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+.butt{
+  background-color: rgb(100,100,50,);
+  color: rgb(215, 3, 252);
+  width: 250px;
+  height: 75px;
+  border: 5px double orangered;
+  border-radius: 40px;
+  font-size: 20px;
+
+}
+#tester{
+  display: flex;
+  justify-content: space-around
+}
+body{
+  background: #ffbf00;
+}
